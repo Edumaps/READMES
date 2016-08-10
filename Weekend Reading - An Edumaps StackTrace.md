@@ -1,4 +1,4 @@
-# Weekend Research & Experimentation
+# Research & Experimentation
 
 > ... This is the list of places to refresh our previous conversations and take a deeper dive into. Can also help refresh what our focus will be on
 
@@ -39,8 +39,15 @@
 * [Seneca Examples](https://hueniverse.com/2015/06/02/introducing-chairo-a-hapi-js-microservices-plugin/) - Old (some not working) examples but kind of gets you started
 * [Microservices Stack Tutorial](https://hueniverse.com/2015/06/02/introducing-chairo-a-hapi-js-microservices-plugin/) - using Chairo, Hapi & Seneca
 
-#### Techincal Debt & Agile
+#### Technical Debt & Agile
 
 * [Sharing and Group decision is key](https://blog.codinghorror.com/paying-down-your-technical-debt/) - Technical Debt explaination.
 
 > We must deliver the product by a certain deadline and therefore we may need to invest in technical debt. However, we must be concious in how much technical debt we invest in so once we start coding the product entirely we need to have regular meetings (to remain [Agile](http://agilemethodology.org/)) but not neccessairly following it exclusively. It is guide and we'll use what we need from it to get the job done whjich also incuring technical debt and therefore the meetings would serve at helping us review project stage, status, everyone knows what is in/out, how it works etc and what would need to be refactored later (to clear our debt) 
+
+#### Services & Messaging Technology
+
+* [Thrift](https://thrift.apache.org/) - Apache
+* [Protocol Buffers](https://developers.google.com/protocol-buffers/) - Google
+* [MessagePack](http://msgpack.org/index.html)
+* [RabbitMQ](https://www.rabbitmq.com/) - Pivitol
